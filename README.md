@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 
 </h3>
-![](https://komarev.com/ghpvc/?username=ewakobrzynska)
+
 
 
