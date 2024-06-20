@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 
 
 </h3>
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+
